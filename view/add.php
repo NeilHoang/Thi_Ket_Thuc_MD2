@@ -16,12 +16,12 @@ if(isset($message)){
 <div class="col-12 col-md-12">
     <div class="row">
         <div class="col-12">
-            <h1>Thêm mới khách hàng</h1>
+            <h1>Thêm mới sản phẩm</h1>
         </div>
         <div class="col-12">
             <form method="post">
                 <div class="form-group">
-                    <label>Tên khách hàng</label>
+                    <label>Tên sản phẩm</label>
                     <input type="text" class="form-control" name="name"  placeholder="Nhập tên" required>
                 </div>
                 <div class="form-group">

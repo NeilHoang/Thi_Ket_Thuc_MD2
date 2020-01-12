@@ -1,4 +1,4 @@
-<h2>Bạn chắc chắn muốn xóa khách hàng này?</h2>
+<h2>Bạn chắc chắn muốn xóa sản phẩm này?</h2>
 <h3><?php echo $product->name; ?></h3>
 <form action="index.php?page=delete" method="post">
     <input type="hidden" name="id" value="<?php echo $product->id; ?>"/>

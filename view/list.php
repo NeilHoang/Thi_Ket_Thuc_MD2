@@ -21,7 +21,7 @@
         integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
         crossorigin="anonymous"></script>
 <body>
-<h2>Danh sách khách hàng</h2>
+<h2>Danh sách sản phẩm</h2>
 <form class="form-inline my-2 my-lg-0" method="get">
     <input class="form-control mr-sm-2" type="search" placeholder="Search" name="keyword" aria-label="Search">
     <a href="index.php?page=search&keyword=<?php echo $_GET['keyword'] ?>"><button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button></a>
